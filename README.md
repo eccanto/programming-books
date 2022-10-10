@@ -2,10 +2,6 @@
 
 # Books
 
-These collection of books are found in some web pages. I only organizated per programming languages, categories, etc. I'm no responsabilty about Copyright.
-
-# Collection
-
 * [C-C++](#c-c++)
 * [Code](#code)
 * [Docker](#docker)
