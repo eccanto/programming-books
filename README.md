@@ -77,7 +77,11 @@
 - Building Event-Driven Microservices: Leveraging Organizational Data at Scale
 - Building Microservices: Designing Fine-Grained Systems
 - Evolve the Monolith to Microservices with Java and Node
+- Microservices - Building Scalable Software
+- Microservices Deployment: Cookbook
+- Microservices From Day One: Build Robust and Scalable Software from the Start
 - Microservices Patterns: With examples in Java
+- Microservices: Flexible Software Architecture
 
 ## Node
 - Get Programming with Node.js
@@ -147,8 +151,11 @@
 - The Road to React: Your journey to master React.js in JavaScript
 
 ## Software Architectures
+- Design Patterns: Elements of Reusable Object-Oriented Software
 - Documenting Software Architectures: Views and Beyond
+- Fundamentals of Software Architecture
 - High Performance Browser Networking: What every web developer should know about networking and web performance
+- Software Architecture Patterns
 
 ## Testing
 - Software Testing: A Craftsman's Approach, Fourth Edition
