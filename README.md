@@ -43,10 +43,10 @@
 - The Docker Book: Containerization is the new virtualization
 
 ## Git
-- Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git.pdf
-- Git Pocket Guide: A Working Introduction.pdf
-- Pro Git.pdf
-- Professional Git.pdf
+- Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git
+- Git Pocket Guide: A Working Introduction
+- Pro Git
+- Professional Git
 
 ## Hacking
 - Effective Python Penetration Testing
