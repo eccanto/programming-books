@@ -158,7 +158,6 @@
 
 ## Typescript
 - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
-- Mastering TypeScript: Build enterprise-ready, modular web applications using TypeScript 4 and modern frameworks
 - Mastering Typescript: Build enterprise-ready, modular web applications using Typescript 4 and modern frameworks
 - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker
 - Programming TypeScript: Making Your JavaScript Applications Scale
