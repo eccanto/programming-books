@@ -1,5 +1,8 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
+The books in this collection are for personal use and are encrypted, if you want to obtain them you can find them on
+Amazon or other official websites.
+
 # Books
 
 * [C-C++](#c-c++)
@@ -12,12 +15,12 @@
 * [Linux](#linux)
 * [Microservices](#microservices)
 * [Node](#node)
-* [Papers ](#papers )
 * [Python](#python)
 * [React](#react)
-* [Software Architectures](#software-architectures)
+* [Software Architecture](#software-architecture)
 * [Testing](#testing)
 * [Typescript](#typescript)
+* [Papers](#papers)
 
 ## C-C++
 - C Programming Language, 2nd Edition
@@ -26,6 +29,8 @@
 - Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
 - Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding
 - Programming: Principles and Practice Using C++
+
+  [download](https://github.com/eccanto/programming-books/raw/master/C-C%2B%2B/books.7z)
 
 ## Code
 - Agile Software Development, Principles, Patterns, and Practices
@@ -39,8 +44,12 @@
 - The Pragmatic Programmer: From Journeyman to Master
 - Working Effectively with Legacy Code
 
+  [download](https://github.com/eccanto/programming-books/raw/master/code/books.7z)
+
 ## Docker
 - The Docker Book: Containerization is the new virtualization
+
+  [download](https://github.com/eccanto/programming-books/raw/master/docker/books.7z)
 
 ## Git
 - Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git
@@ -48,16 +57,22 @@
 - Pro Git
 - Professional Git
 
+  [download](https://github.com/eccanto/programming-books/raw/master/git/books.7z)
+
 ## Hacking
 - Effective Python Penetration Testing
 - Hacking: The Art of Exploitation
 - Python: Penetration Testing for Developers
+
+  [download](https://github.com/eccanto/programming-books/raw/master/hacking/books.7z)
 
 ## Java
 - Effective Java, Third Edition
 - Head First Java: Your Brain on Java - A Learner's Guide
 - Head First: Java
 - Spring in Action, 5th Edition
+
+  [download](https://github.com/eccanto/programming-books/raw/master/java/books.7z)
 
 ## Javascript
 - Beginning JavaScript, 5th Edition
@@ -67,11 +82,15 @@
 - Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries
 - You Don't Know JS: ES6 & Beyond
 
+  [download](https://github.com/eccanto/programming-books/raw/master/javascript/books.7z)
+
 ## Linux
 - Learning Linux Shell Scripting
 - Linux Device Drivers
 - Mastering Linux
 - Pro Bash Programming
+
+  [download](https://github.com/eccanto/programming-books/raw/master/linux/books.7z)
 
 ## Microservices
 - Building Event-Driven Microservices: Leveraging Organizational Data at Scale
@@ -83,19 +102,14 @@
 - Microservices Patterns: With examples in Java
 - Microservices: Flexible Software Architecture
 
+  [download](https://github.com/eccanto/programming-books/raw/master/microservices/books.7z)
+
 ## Node
 - Get Programming with Node.js
 - Node.js Design Patterns - Second Edition: Master best practices to build modular and scalable server-side web applications
 - Web Development with Node and Express
 
-## Papers
-- A Clustering Method Based on K-Means Algorithm
-- Convolutional Neural Network Features Based Change Detection in Satellite Images
-- Deep Learning-Based Automatic Detection of Ships
-- Ndvi: Vegetation change detection using remote sensing and gis
-- Reviewing Otsu's Method For Image Thresholding
-- Satellite Imagery Classification Based on Deep Convolution Network
-- Using Convolutional Networks and Satellite Imagery to Identify Patterns in Urban Environments at a Large Scale
+  [download](https://github.com/eccanto/programming-books/raw/master/node/books.7z)
 
 ## Python
 -  Automate it!: Recipes to upskill your business
@@ -144,18 +158,24 @@
 -  Web Frameworks for Python Geospatial Development
 -  What You Need to Know about Python
 
+   [download](https://github.com/eccanto/programming-books/raw/master/python/books.7z)
+
 ## React
 - Learning React: Functional Web Development with React and Redux
 - React and React Native: A complete hands-on guide to modern web and mobile development with React.js
 - React in Action
 - The Road to React: Your journey to master React.js in JavaScript
 
-## Software Architectures
+  [download](https://github.com/eccanto/programming-books/raw/master/react/books.7z)
+
+## Software architecture
 - Design Patterns: Elements of Reusable Object-Oriented Software
 - Documenting Software Architectures: Views and Beyond
 - Fundamentals of Software Architecture
 - High Performance Browser Networking: What every web developer should know about networking and web performance
 - Software Architecture Patterns
+
+  [download](https://github.com/eccanto/programming-books/raw/master/software-architecture/books.7z)
 
 ## Testing
 - Software Testing: A Craftsman's Approach, Fourth Edition
@@ -163,8 +183,21 @@
 - Test-Driven Java Development: Invoke TDD principles for end-to-end application development with Java
 - The Art of Software Testing 3 edition
 
+  [download](https://github.com/eccanto/programming-books/raw/master/testing/books.7z)
+
 ## Typescript
 - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
 - Mastering Typescript: Build enterprise-ready, modular web applications using Typescript 4 and modern frameworks
 - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker
 - Programming TypeScript: Making Your JavaScript Applications Scale
+
+  [download](https://github.com/eccanto/programming-books/raw/master/typescript/books.7z)
+
+## Papers
+- A Clustering Method Based on K-Means Algorithm
+- Convolutional Neural Network Features Based Change Detection in Satellite Images
+- Deep Learning-Based Automatic Detection of Ships
+- Ndvi: Vegetation change detection using remote sensing and gis
+- Reviewing Otsu's Method For Image Thresholding
+- Satellite Imagery Classification Based on Deep Convolution Network
+- Using Convolutional Networks and Satellite Imagery to Identify Patterns in Urban Environments at a Large Scale
