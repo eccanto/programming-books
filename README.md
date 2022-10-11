@@ -30,7 +30,7 @@ Amazon or other official websites.
 - Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding
 - Programming: Principles and Practice Using C++
 
-  [download](https://github.com/eccanto/programming-books/raw/master/C-C%2B%2B/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/C-C%2B%2B/books-c-c++.7z)
 
 ## Code
 - Agile Software Development, Principles, Patterns, and Practices
@@ -44,12 +44,12 @@ Amazon or other official websites.
 - The Pragmatic Programmer: From Journeyman to Master
 - Working Effectively with Legacy Code
 
-  [download](https://github.com/eccanto/programming-books/raw/master/code/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/code/books-code.7z)
 
 ## Docker
 - The Docker Book: Containerization is the new virtualization
 
-  [download](https://github.com/eccanto/programming-books/raw/master/docker/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/docker/books-docker.7z)
 
 ## Git
 - Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git
@@ -57,14 +57,14 @@ Amazon or other official websites.
 - Pro Git
 - Professional Git
 
-  [download](https://github.com/eccanto/programming-books/raw/master/git/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/git/books-git.7z)
 
 ## Hacking
 - Effective Python Penetration Testing
 - Hacking: The Art of Exploitation
 - Python: Penetration Testing for Developers
 
-  [download](https://github.com/eccanto/programming-books/raw/master/hacking/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/hacking/books-hacking.7z)
 
 ## Java
 - Effective Java, Third Edition
@@ -72,7 +72,7 @@ Amazon or other official websites.
 - Head First: Java
 - Spring in Action, 5th Edition
 
-  [download](https://github.com/eccanto/programming-books/raw/master/java/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/java/books-java.7z)
 
 ## Javascript
 - Beginning JavaScript, 5th Edition
@@ -82,7 +82,7 @@ Amazon or other official websites.
 - Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries
 - You Don't Know JS: ES6 & Beyond
 
-  [download](https://github.com/eccanto/programming-books/raw/master/javascript/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/javascript/books-javascript.7z)
 
 ## Linux
 - Learning Linux Shell Scripting
@@ -90,7 +90,7 @@ Amazon or other official websites.
 - Mastering Linux
 - Pro Bash Programming
 
-  [download](https://github.com/eccanto/programming-books/raw/master/linux/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/linux/books-linux.7z)
 
 ## Microservices
 - Building Event-Driven Microservices: Leveraging Organizational Data at Scale
@@ -102,14 +102,14 @@ Amazon or other official websites.
 - Microservices Patterns: With examples in Java
 - Microservices: Flexible Software Architecture
 
-  [download](https://github.com/eccanto/programming-books/raw/master/microservices/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/microservices/books-microservices.7z)
 
 ## Node
 - Get Programming with Node.js
 - Node.js Design Patterns - Second Edition: Master best practices to build modular and scalable server-side web applications
 - Web Development with Node and Express
 
-  [download](https://github.com/eccanto/programming-books/raw/master/node/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/node/books-node.7z)
 
 ## Python
 -  Automate it!: Recipes to upskill your business
@@ -158,7 +158,7 @@ Amazon or other official websites.
 -  Web Frameworks for Python Geospatial Development
 -  What You Need to Know about Python
 
-   [download](https://github.com/eccanto/programming-books/raw/master/python/books.7z)
+   [download](https://github.com/eccanto/programming-books/raw/master/python/books-python.7z)
 
 ## React
 - Learning React: Functional Web Development with React and Redux
@@ -166,7 +166,7 @@ Amazon or other official websites.
 - React in Action
 - The Road to React: Your journey to master React.js in JavaScript
 
-  [download](https://github.com/eccanto/programming-books/raw/master/react/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/react/books-react.7z)
 
 ## Software architecture
 - Design Patterns: Elements of Reusable Object-Oriented Software
@@ -175,7 +175,7 @@ Amazon or other official websites.
 - High Performance Browser Networking: What every web developer should know about networking and web performance
 - Software Architecture Patterns
 
-  [download](https://github.com/eccanto/programming-books/raw/master/software-architecture/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/software-architecture/books-software-architecture.7z)
 
 ## Testing
 - Software Testing: A Craftsman's Approach, Fourth Edition
@@ -183,7 +183,7 @@ Amazon or other official websites.
 - Test-Driven Java Development: Invoke TDD principles for end-to-end application development with Java
 - The Art of Software Testing 3 edition
 
-  [download](https://github.com/eccanto/programming-books/raw/master/testing/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/testing/books-testing.7z)
 
 ## Typescript
 - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
@@ -191,7 +191,7 @@ Amazon or other official websites.
 - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker
 - Programming TypeScript: Making Your JavaScript Applications Scale
 
-  [download](https://github.com/eccanto/programming-books/raw/master/typescript/books.7z)
+  [download](https://github.com/eccanto/programming-books/raw/master/typescript/books-typescript.7z)
 
 ## Papers
 - A Clustering Method Based on K-Means Algorithm
