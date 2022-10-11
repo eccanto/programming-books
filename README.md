@@ -201,3 +201,5 @@ Amazon or other official websites.
 - Reviewing Otsu's Method For Image Thresholding
 - Satellite Imagery Classification Based on Deep Convolution Network
 - Using Convolutional Networks and Satellite Imagery to Identify Patterns in Urban Environments at a Large Scale
+
+  [see](https://github.com/eccanto/programming-books/tree/master/papers)
